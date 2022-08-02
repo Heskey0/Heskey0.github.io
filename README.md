@@ -46,9 +46,11 @@
 
 [(SIG 2022)布料仿真论文总结 MASpreconditioner](https://www.cnblogs.com/Heskey0/p/16506799.html)
 
-[流体模拟的基本方法](https://www.cnblogs.com/Heskey0/p/16182848.html)
+[(SIG 2002)布料碰撞论文总结 Robust Treatment](https://www.cnblogs.com/Heskey0/p/16545014.html)
 
 [布料仿真的基本方法](https://www.cnblogs.com/Heskey0/p/16544633.html)
+
+[流体模拟的基本方法](https://www.cnblogs.com/Heskey0/p/16182848.html)
 
 [迪士尼身体肌肉的仿真方法](https://www.cnblogs.com/Heskey0/p/16309172.html)
 
@@ -68,13 +70,30 @@
 
 [【社团课程】光线传输专题](https://www.bilibili.com/video/BV1S44y1a7RC?vd_source=10edfdf73ab80a5b21d82f049d07a937)
 
+* Low-Discrepancy Sampling
+* Multiple Importance Sampling
+
 [【技术美术百人计划】图形 5.3 体渲染专题](https://www.bilibili.com/video/BV1EL4y1u7Aq)
 
-* 
+* Measurement Equation + Path Integral
+* Phase function
+* Volumetric Path Tracing
+* Volumetric Radiance Caching
+* Volumetric Photon Mapping
+* BDPT
+* Volumetric BDPT
+* Precomputed Atmospheric Scattering
 
 [【技术美术百人计划】图形 5.5 水体模拟与渲染](https://www.bilibili.com/video/BV1Vg411o76E?vd_source=10edfdf73ab80a5b21d82f049d07a937)
 
-[图形学论文带读 - Siggraph2019光子映射](https://www.bilibili.com/video/BV1oZ4y187VH?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+* 推导NS equation
+* FFT海面波模拟
+* Lagragian View/Eulerian View
+* Rendering: Foam, SSS, high Light
+
+[图形学论文带读 - Siggraph2019 Photon Surface](https://www.bilibili.com/video/BV1oZ4y187VH?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+
+* (2019 Deng et.al.)Photon Surfaces for robust, unbiased Volumetric Density Estimation
 
 # Part 3. 作品
 
