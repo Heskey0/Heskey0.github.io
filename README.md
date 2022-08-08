@@ -24,7 +24,7 @@
 
 [SIGGRAPH2021-用神经网络压缩复杂光源](https://www.cnblogs.com/Heskey0/p/15989257.html)
 
-引擎：
+引擎+渲染：
 
 [Unity SRP底层执行过程](https://www.cnblogs.com/Heskey0/p/15663871.html)
 
@@ -44,7 +44,11 @@
 
 [迭代方法与Multigrid - 超详细总结](https://www.cnblogs.com/Heskey0/p/16535396.html)
 
-[(SIG 2022)布料仿真论文总结 MASpreconditioner](https://www.cnblogs.com/Heskey0/p/16506799.html)
+[(SIG 2022)MASpreconditioner论文总结](https://www.cnblogs.com/Heskey0/p/16506799.html)
+
+[(SIG 2020)GPU-based Cloth Self Collisions论文总结](https://www.cnblogs.com/Heskey0/p/16562101.html)
+
+[(PG 2018)非线性Multigrid处理布料仿真](https://www.cnblogs.com/Heskey0/p/16551170.html)
 
 [(SIG 2002)布料碰撞论文总结 Robust Treatment](https://www.cnblogs.com/Heskey0/p/16545014.html)
 
