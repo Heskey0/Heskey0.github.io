@@ -64,11 +64,11 @@
 
 [信息论与编码 - 超详细总结](https://www.cnblogs.com/Heskey0/p/16395886.html)
 
-[机器学习基础 - 统计学习方法](https://www.cnblogs.com/Heskey0/p/16202340.html)
+[机器学习基础 - 《统计学习方法》](https://www.cnblogs.com/Heskey0/p/16202340.html)
 
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
-[无约束线性优化](https://www.cnblogs.com/Heskey0/p/16481696.html)
+[《最优化导论》笔记](https://www.cnblogs.com/Heskey0/p/16481696.html)
 
 # Part 2. 教程
 
