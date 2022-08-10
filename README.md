@@ -46,6 +46,8 @@
 
 [(SIG 2022)MASpreconditioner论文总结](https://www.cnblogs.com/Heskey0/p/16506799.html)
 
+[(SIG 2020)IPC算法](https://www.cnblogs.com/Heskey0/p/16573358.html)
+
 [(SIG 2020)GPU-based Cloth Self Collisions论文总结](https://www.cnblogs.com/Heskey0/p/16562101.html)
 
 [(SIG Asia 2019)miHoYo基于深度学习的布料动画工作流](https://www.cnblogs.com/Heskey0/p/16572090.html)
