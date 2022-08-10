@@ -48,6 +48,8 @@
 
 [(SIG 2020)GPU-based Cloth Self Collisions论文总结](https://www.cnblogs.com/Heskey0/p/16562101.html)
 
+[(SIG Asia 2019)miHoYo基于深度学习的布料动画工作流](https://www.cnblogs.com/Heskey0/p/16572090.html)
+
 [(PG 2018)非线性Multigrid处理布料仿真](https://www.cnblogs.com/Heskey0/p/16551170.html)
 
 [(SIG 2002)布料碰撞论文总结 Robust Treatment](https://www.cnblogs.com/Heskey0/p/16545014.html)
@@ -60,11 +62,11 @@
 
 ## 3. 机器学习
 
-[概率论与数理统计](https://www.cnblogs.com/Heskey0/p/16395875.html)
+[《概率论与数理统计》](https://www.cnblogs.com/Heskey0/p/16395875.html)
 
-[信息论与编码 - 超详细总结](https://www.cnblogs.com/Heskey0/p/16395886.html)
+[《信息论与编码》 - 超详细总结](https://www.cnblogs.com/Heskey0/p/16395886.html)
 
-[机器学习基础 - 《统计学习方法》](https://www.cnblogs.com/Heskey0/p/16202340.html)
+[机器学习基础 - 《统计学习方法》笔记](https://www.cnblogs.com/Heskey0/p/16202340.html)
 
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
