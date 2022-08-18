@@ -54,7 +54,13 @@
 
 [(PG 2018)非线性Multigrid处理布料仿真](https://www.cnblogs.com/Heskey0/p/16551170.html)
 
-[(SIG 2002)布料碰撞论文总结 Robust Treatment](https://www.cnblogs.com/Heskey0/p/16545014.html)
+[(2014) Projective Dynamics论文摘要](https://www.cnblogs.com/Heskey0/p/16589495.html)
+
+[(SGP 2006)Quadratic Bending Model](https://www.cnblogs.com/Heskey0/p/16579415.html)
+
+[(SIG 2002)impulse-based method碰撞处理](https://www.cnblogs.com/Heskey0/p/16545014.html)
+
+[(SIG course note)弹性体（布料）仿真方法总结](https://www.cnblogs.com/Heskey0/p/16599502.html)
 
 [布料仿真的基本方法](https://www.cnblogs.com/Heskey0/p/16544633.html)
 
@@ -108,4 +114,9 @@
 [Github](https://github.com/Heskey0?tab=repositories)
 
 [B站](https://space.bilibili.com/455965619)
+
+* [Unity合集](https://space.bilibili.com/455965619/channel/seriesdetail?sid=382239&ctype=0)
+* [UE合集](https://space.bilibili.com/455965619/channel/seriesdetail?sid=382238&ctype=0)
+
+
 
