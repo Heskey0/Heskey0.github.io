@@ -6,6 +6,8 @@
 
 ## 1. 渲染
 
+### 1.1 真实感渲染
+
 [体渲染专题 (一)](https://www.cnblogs.com/Heskey0/p/15696150.html)
 
 [体渲染专题 (二)](https://www.cnblogs.com/Heskey0/p/15696154.html)
@@ -24,7 +26,7 @@
 
 [SIGGRAPH2021-用神经网络压缩复杂光源](https://www.cnblogs.com/Heskey0/p/15989257.html)
 
-引擎+渲染：
+### 1.2 实时渲染（引擎）
 
 [Unity SRP底层执行过程](https://www.cnblogs.com/Heskey0/p/15663871.html)
 
@@ -40,9 +42,15 @@
 
 [用群论解释旋转的本质](https://www.cnblogs.com/Heskey0/p/16182834.html)
 
+---
+
+
+
 ## 2. 仿真
 
 [迭代方法与Multigrid - 超详细总结](https://www.cnblogs.com/Heskey0/p/16535396.html)
+
+### 2.1 弹性体仿真
 
 [(SIG 2022)MASpreconditioner论文总结](https://www.cnblogs.com/Heskey0/p/16506799.html)
 
@@ -64,21 +72,33 @@
 
 [布料仿真的基本方法](https://www.cnblogs.com/Heskey0/p/16544633.html)
 
+[迪士尼身体肌肉的仿真方法](https://www.cnblogs.com/Heskey0/p/16309172.html)
+
+### 2.2 流体仿真
+
 [流体模拟的基本方法](https://www.cnblogs.com/Heskey0/p/16182848.html)
 
-[迪士尼身体肌肉的仿真方法](https://www.cnblogs.com/Heskey0/p/16309172.html)
+---
+
+
 
 ## 3. 机器学习
 
-[《概率论与数理统计》](https://www.cnblogs.com/Heskey0/p/16395875.html)
+[《概率论与数理统计》笔记](https://www.cnblogs.com/Heskey0/p/16395875.html)
 
-[《信息论与编码》 - 超详细总结](https://www.cnblogs.com/Heskey0/p/16395886.html)
+[《信息论与编码》超详细笔记](https://www.cnblogs.com/Heskey0/p/16395886.html)
 
-[机器学习基础 - 《统计学习方法》笔记](https://www.cnblogs.com/Heskey0/p/16202340.html)
+[《统计学习方法》笔记](https://www.cnblogs.com/Heskey0/p/16202340.html)
+
+[《最优化导论》笔记](https://www.cnblogs.com/Heskey0/p/16481696.html)
 
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
-[《最优化导论》笔记](https://www.cnblogs.com/Heskey0/p/16481696.html)
+---
+
+---
+
+
 
 # Part 2. 教程
 
@@ -108,6 +128,12 @@
 [图形学论文带读 - Siggraph2019 Photon Surface](https://www.bilibili.com/video/BV1oZ4y187VH?vd_source=10edfdf73ab80a5b21d82f049d07a937)
 
 * (2019 Deng et.al.)Photon Surfaces for robust, unbiased Volumetric Density Estimation
+
+---
+
+---
+
+
 
 # Part 3. 作品
 
