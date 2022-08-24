@@ -78,6 +78,8 @@
 
 [流体模拟的基本方法](https://www.cnblogs.com/Heskey0/p/16182848.html)
 
+[(SIG course note)流体仿真方法总结](https://www.cnblogs.com/Heskey0/p/16615961.html)
+
 ---
 
 
