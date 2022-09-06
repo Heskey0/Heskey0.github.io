@@ -1,10 +1,97 @@
 # Heskey0的博客
 
-# Part 1. 博客
+# Part 1. 个人作品
+
+[Github](https://github.com/Heskey0?tab=repositories)
+
+[B站](https://space.bilibili.com/455965619)
+
+## 1. Unity Shader
+
+[手写PBR+NPR，预计算IBL](https://www.bilibili.com/video/BV1mi4y117SB)
+
+[卡通渲染](https://www.bilibili.com/video/BV1pT4y1v7GQ)
+
+《图形特效编程》课程作业：
+
+* Lab01：程序动画 + 纹理移动
+
+## 2. Unity Coding
+
+[双端网络斗地主 - 完整实现](https://www.bilibili.com/video/BV1664y1D74g)
+
+[双端网络MMO - 系统架构](https://www.bilibili.com/video/BV1Qq4y157mh)
+
+[gamejam(技能系统架构+敌人状态机)](https://www.bilibili.com/video/BV1CB4y1u7Sq)
+
+[子弹追踪 - DOTS高性能C#](https://www.bilibili.com/video/BV1b54y157xQ)
+
+## 3. UE Coding
+
+[UE4 C++ 射击游戏](https://www.bilibili.com/video/BV1Jh411h7eT)
+
+[UE4 C++ 吃豆人](https://www.bilibili.com/video/BV1sQ4y197vd)
+
+## 4. 程序化
+
+[能量球 - 程序化特效(Houdini+UE)](https://www.bilibili.com/video/BV1qh411a7YU)
+
+[高精度刺绣 - 程序化纹理(SD + UE)](https://www.bilibili.com/video/BV1pf4y1a7Hg?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+
+杂项
+
+[声控Niagara粒子](https://www.bilibili.com/video/BV1Pg4115786)
+
+## 5. 图形学
+
+[手写微表面路径追踪](https://www.bilibili.com/video/BV1k34y167b1)
+
+---
+
+---
+
+
+
+# Part 2. 个人教程
+
+[【社团课程】光线传输专题 - 采样](https://www.bilibili.com/video/BV1S44y1a7RC?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+
+* Low-Discrepancy Sampling
+* Multiple Importance Sampling
+
+[【技术美术百人计划】图形 5.3 体渲染专题](https://www.bilibili.com/video/BV1EL4y1u7Aq)
+
+* Measurement Equation + Path Integral
+* Phase function
+* Volumetric Path Tracing
+* Volumetric Radiance Caching
+* Volumetric Photon Mapping
+* BDPT
+* Volumetric BDPT
+* Precomputed Atmospheric Scattering
+
+[【技术美术百人计划】图形 5.5 水体模拟与渲染](https://www.bilibili.com/video/BV1Vg411o76E?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+
+* 推导NS equation
+* FFT海面波模拟
+* Lagragian View/Eulerian View
+* Rendering: Foam, SSS, high Light
+
+[图形学论文带读 - Siggraph2019 Photon Surface](https://www.bilibili.com/video/BV1oZ4y187VH?vd_source=10edfdf73ab80a5b21d82f049d07a937)
+
+* (2019 Deng et.al.)Photon Surfaces for robust, unbiased Volumetric Density Estimation
+
+---
+
+---
+
+
+
+# Part 3. 个人博客
 
 [Heskey0的博客园 - 主页](https://www.cnblogs.com/Heskey0/)
 
-## 1. 渲染
+## 1. 基于物理的渲染
 
 ### 1.1 真实感渲染
 
@@ -46,9 +133,9 @@
 
 
 
-## 2. 仿真
+## 2. 基于物理的仿真、建模
 
-[迭代方法与Multigrid - 超详细总结](https://www.cnblogs.com/Heskey0/p/16535396.html)
+[稀疏线性系统与Multigrid - 超详细总结](https://www.cnblogs.com/Heskey0/p/16535396.html)
 
 ### 2.1 弹性体仿真
 
@@ -69,6 +156,8 @@
 [(SIG 2002)impulse-based method碰撞处理](https://www.cnblogs.com/Heskey0/p/16545014.html)
 
 [(SIG course note)弹性体（布料）仿真方法总结](https://www.cnblogs.com/Heskey0/p/16599502.html)
+
+[(SIG course note)物体碰撞与摩擦的方法总结](https://www.cnblogs.com/Heskey0/p/16629712.html)
 
 [布料仿真的基本方法](https://www.cnblogs.com/Heskey0/p/16544633.html)
 
@@ -96,55 +185,7 @@
 
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
----
 
----
-
-
-
-# Part 2. 教程
-
-[【社团课程】光线传输专题](https://www.bilibili.com/video/BV1S44y1a7RC?vd_source=10edfdf73ab80a5b21d82f049d07a937)
-
-* Low-Discrepancy Sampling
-* Multiple Importance Sampling
-
-[【技术美术百人计划】图形 5.3 体渲染专题](https://www.bilibili.com/video/BV1EL4y1u7Aq)
-
-* Measurement Equation + Path Integral
-* Phase function
-* Volumetric Path Tracing
-* Volumetric Radiance Caching
-* Volumetric Photon Mapping
-* BDPT
-* Volumetric BDPT
-* Precomputed Atmospheric Scattering
-
-[【技术美术百人计划】图形 5.5 水体模拟与渲染](https://www.bilibili.com/video/BV1Vg411o76E?vd_source=10edfdf73ab80a5b21d82f049d07a937)
-
-* 推导NS equation
-* FFT海面波模拟
-* Lagragian View/Eulerian View
-* Rendering: Foam, SSS, high Light
-
-[图形学论文带读 - Siggraph2019 Photon Surface](https://www.bilibili.com/video/BV1oZ4y187VH?vd_source=10edfdf73ab80a5b21d82f049d07a937)
-
-* (2019 Deng et.al.)Photon Surfaces for robust, unbiased Volumetric Density Estimation
-
----
-
----
-
-
-
-# Part 3. 作品
-
-[Github](https://github.com/Heskey0?tab=repositories)
-
-[B站](https://space.bilibili.com/455965619)
-
-* [Unity合集](https://space.bilibili.com/455965619/channel/seriesdetail?sid=382239&ctype=0)
-* [UE合集](https://space.bilibili.com/455965619/channel/seriesdetail?sid=382238&ctype=0)
 
 
 
