@@ -15,6 +15,9 @@
 《图形特效编程》课程作业：
 
 * Lab01：程序动画 + 纹理移动
+  * 程序化焦散 + 流体涡量修复：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)
+
+
 
 ## 2. Unity Coding
 
