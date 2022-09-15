@@ -19,6 +19,7 @@
 
 
 
+
 ## 2. Unity Coding
 
 [双端网络斗地主 - 完整实现](https://www.bilibili.com/video/BV1664y1D74g)
@@ -144,7 +145,7 @@
 
 [(SIG 2022)MASpreconditioner论文总结](https://www.cnblogs.com/Heskey0/p/16506799.html)
 
-[(SIG 2020)IPC算法](https://www.cnblogs.com/Heskey0/p/16573358.html)
+[(SIG 2020)IPC算法](https://www.cnblogs.com/Heskey0/p/16573358.html) + [猴子都能看懂的经典碰撞处理法-IPC - 知乎](https://zhuanlan.zhihu.com/p/563608116)
 
 [(SIG 2020)GPU-based Cloth Self Collisions论文总结](https://www.cnblogs.com/Heskey0/p/16562101.html)
 
@@ -165,6 +166,8 @@
 [布料仿真的基本方法](https://www.cnblogs.com/Heskey0/p/16544633.html)
 
 [迪士尼身体肌肉的仿真方法](https://www.cnblogs.com/Heskey0/p/16309172.html)
+
+[布料仿真-学术界的30年 - 知乎](https://zhuanlan.zhihu.com/p/560239986)
 
 ### 2.2 流体仿真
 
