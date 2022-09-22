@@ -14,8 +14,15 @@
 
 《图形特效编程》课程作业：
 
-* Lab01：程序动画 + 纹理移动
-  * 程序化焦散 + 流体涡量修复：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)
+* Lab01：
+  * 程序化焦散：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV12g411S7m3)
+  * 流体涡量修复：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV12B4y1g7xV/)
+* Lab02：
+  * 基于高度场的水波模拟：[最终效果](https://www.bilibili.com/video/BV1gd4y1g7cF)
+* Lab03：
+  * PBR式卡渲：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/566894412)，[最终效果](https://www.bilibili.com/video/BV1Te4y1C7Xu)
+
+
 
 
 
@@ -98,6 +105,8 @@
 ## 1. 基于物理的渲染
 
 ### 1.1 真实感渲染
+
+[波动光学下的渲染方程](https://zhuanlan.zhihu.com/p/565692297)
 
 [体渲染专题 (一)](https://www.cnblogs.com/Heskey0/p/15696150.html)
 
