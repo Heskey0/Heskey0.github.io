@@ -14,13 +14,16 @@
 
 《图形特效编程》课程作业：
 
-* Lab01：
+* Lab01- 2022/9/6：
   * 程序化焦散：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV12g411S7m3)
-  * 流体涡量修复：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV12B4y1g7xV/)
-* Lab02：
+  * 欧拉法流体涡量修复：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV1ie4y1b7dJ)
+* Lab02 - 2022/9/13：
   * 基于高度场的水波模拟：[最终效果](https://www.bilibili.com/video/BV1gd4y1g7cF)
-* Lab03：
-  * PBR式卡渲：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/566894412)，[最终效果](https://www.bilibili.com/video/BV1Te4y1C7Xu)
+* Lab03 - 2022/9/20：
+  * 迪士尼原则BRDF+IBL+SH：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/566894412)，[最终效果](https://www.bilibili.com/video/BV1Te4y1C7Xu)
+  * MGPCG求解的FLIP流体仿真：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/567598864)，[最终效果](https://www.bilibili.com/video/BV1L24y1o7Ku)
+  * 光线步进FBM噪声云：[最终效果](https://www.bilibili.com/video/BV1LG4y1s7xs)
+  * LBM流体仿真：[最终效果](https://www.bilibili.com/video/BV1Tg411e7Az)
 
 
 
@@ -146,7 +149,7 @@
 
 
 
-## 2. 基于物理的仿真、建模
+## 2. 基于物理的动画、建模
 
 [稀疏线性系统与Multigrid - 超详细总结](https://www.cnblogs.com/Heskey0/p/16535396.html)
 
@@ -183,6 +186,8 @@
 [流体模拟的基本方法](https://www.cnblogs.com/Heskey0/p/16182848.html)
 
 [(SIG course note)流体仿真方法总结](https://www.cnblogs.com/Heskey0/p/16615961.html)
+
+[MGPCG求解的FLIP算法实战](https://zhuanlan.zhihu.com/p/567598864)
 
 ---
 
