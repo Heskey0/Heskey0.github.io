@@ -6,7 +6,9 @@
 
 [B站](https://space.bilibili.com/455965619)
 
-## 1. Unity Shader
+## 1. Graphics
+
+[手写微表面路径追踪](https://www.bilibili.com/video/BV1k34y167b1)
 
 [手写PBR+NPR，预计算IBL](https://www.bilibili.com/video/BV1mi4y117SB)
 
@@ -24,41 +26,43 @@
   * MGPCG求解的FLIP流体仿真：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/567598864)，[最终效果](https://www.bilibili.com/video/BV1L24y1o7Ku)
   * 光线步进FBM噪声云：[最终效果](https://www.bilibili.com/video/BV1LG4y1s7xs)
   * LBM流体仿真：[最终效果](https://www.bilibili.com/video/BV1Tg411e7Az)
+* Lab04 - 2022/9/27：
+  * 软体仿真PBD：[最终效果](https://www.bilibili.com/video/BV1cW4y1i7V1)
+  * Projective Dynamics软体仿真：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/569155539)，[最终效果](https://www.bilibili.com/video/BV1QB4y177Nn)
+  * SpatialHash加速的碰撞检测：[最终效果](https://www.bilibili.com/video/BV1X24y1R7w1)
+* Lab05 - 2022/10/4：
+  * URP毛玻璃：[最终效果](https://www.bilibili.com/video/BV1U14y1872H)
+  * 布料仿真（几何处理与self-Collision）：[代码](https://github.com/Heskey0/ClothSolver)，[最终效果](https://www.bilibili.com/video/BV1MR4y1o7tA)
 
 
 
+## 2. Game Coding
 
+Unity：
 
+* [双端网络斗地主 - 完整实现](https://www.bilibili.com/video/BV1664y1D74g)
 
-## 2. Unity Coding
+* [双端网络MMO - 系统架构](https://www.bilibili.com/video/BV1Qq4y157mh)
 
-[双端网络斗地主 - 完整实现](https://www.bilibili.com/video/BV1664y1D74g)
+* [gamejam(技能系统架构+敌人状态机)](https://www.bilibili.com/video/BV1CB4y1u7Sq)
 
-[双端网络MMO - 系统架构](https://www.bilibili.com/video/BV1Qq4y157mh)
+* [子弹追踪 - DOTS高性能C#](https://www.bilibili.com/video/BV1b54y157xQ)
 
-[gamejam(技能系统架构+敌人状态机)](https://www.bilibili.com/video/BV1CB4y1u7Sq)
+UE：
 
-[子弹追踪 - DOTS高性能C#](https://www.bilibili.com/video/BV1b54y157xQ)
+* [UE4 C++ 射击游戏](https://www.bilibili.com/video/BV1Jh411h7eT)
 
-## 3. UE Coding
+* [UE4 C++ 吃豆人](https://www.bilibili.com/video/BV1sQ4y197vd)
 
-[UE4 C++ 射击游戏](https://www.bilibili.com/video/BV1Jh411h7eT)
-
-[UE4 C++ 吃豆人](https://www.bilibili.com/video/BV1sQ4y197vd)
-
-## 4. 程序化
+## 3. 程序化
 
 [能量球 - 程序化特效(Houdini+UE)](https://www.bilibili.com/video/BV1qh411a7YU)
 
 [高精度刺绣 - 程序化纹理(SD + UE)](https://www.bilibili.com/video/BV1pf4y1a7Hg?vd_source=10edfdf73ab80a5b21d82f049d07a937)
 
-杂项
-
 [声控Niagara粒子](https://www.bilibili.com/video/BV1Pg4115786)
 
-## 5. 图形学
 
-[手写微表面路径追踪](https://www.bilibili.com/video/BV1k34y167b1)
 
 ---
 
