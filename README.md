@@ -6,6 +6,8 @@
 
 [B站](https://space.bilibili.com/455965619)
 
+[个人作品集](https://www.bilibili.com/video/BV19G41177gJ/)
+
 ## 1. Graphics
 
 [手写微表面路径追踪](https://www.bilibili.com/video/BV1k34y167b1)
@@ -27,12 +29,17 @@
   * 光线步进FBM噪声云：[最终效果](https://www.bilibili.com/video/BV1LG4y1s7xs)
   * LBM流体仿真：[最终效果](https://www.bilibili.com/video/BV1Tg411e7Az)
 * Lab04 - 2022/9/27：
-  * 软体仿真PBD：[最终效果](https://www.bilibili.com/video/BV1cW4y1i7V1)
+  * PBD软体仿真：[最终效果](https://www.bilibili.com/video/BV1cW4y1i7V1)
   * Projective Dynamics软体仿真：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/569155539)，[最终效果](https://www.bilibili.com/video/BV1QB4y177Nn)
-  * SpatialHash加速的碰撞检测：[最终效果](https://www.bilibili.com/video/BV1X24y1R7w1)
+  * SpatialHash内存优化的碰撞检测：[最终效果](https://www.bilibili.com/video/BV1X24y1R7w1)
+
 * Lab05 - 2022/10/4：
   * URP毛玻璃：[最终效果](https://www.bilibili.com/video/BV1U14y1872H)
+  * 光线步进分形体积云：[最终效果](https://www.bilibili.com/video/BV1SV4y15712)
+  * GrabPass+分形体积云：[最终效果](https://www.bilibili.com/video/BV1YD4y1y7UD)
+  * URP海洋水渲染：[最终效果](https://www.bilibili.com/video/BV1Ze4y1i7Y9)
   * 布料仿真（几何处理与self-Collision）：[代码](https://github.com/Heskey0/ClothSolver)，[最终效果](https://www.bilibili.com/video/BV1MR4y1o7tA)
+
 
 
 
