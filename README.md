@@ -32,12 +32,11 @@
   * PBD软体仿真：[最终效果](https://www.bilibili.com/video/BV1cW4y1i7V1)
   * Projective Dynamics软体仿真：[思路分析 + 代码实现](https://zhuanlan.zhihu.com/p/569155539)，[最终效果](https://www.bilibili.com/video/BV1QB4y177Nn)
   * SpatialHash内存优化的碰撞检测：[最终效果](https://www.bilibili.com/video/BV1X24y1R7w1)
-
 * Lab05 - 2022/10/4：
-  * URP毛玻璃：[最终效果](https://www.bilibili.com/video/BV1U14y1872H)
-  * 光线步进分形体积云：[最终效果](https://www.bilibili.com/video/BV1SV4y15712)
-  * GrabPass+分形体积云：[最终效果](https://www.bilibili.com/video/BV1YD4y1y7UD)
-  * URP海洋水渲染：[最终效果](https://www.bilibili.com/video/BV1Ze4y1i7Y9)
+  * \[汇总\] GrabPass+分形体积云+海洋水渲染：[最终效果](https://www.bilibili.com/video/BV1YD4y1y7UD)
+    * URP毛玻璃：[最终效果](https://www.bilibili.com/video/BV1U14y1872H)
+    * 光线步进分形体积云：[最终效果](https://www.bilibili.com/video/BV1SV4y15712)
+    * URP海洋水渲染：[最终效果](https://www.bilibili.com/video/BV1Ze4y1i7Y9)
   * 布料仿真（几何处理与self-Collision）：[代码](https://github.com/Heskey0/ClothSolver)，[最终效果](https://www.bilibili.com/video/BV1MR4y1o7tA)
 
 
