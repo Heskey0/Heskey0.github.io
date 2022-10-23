@@ -6,7 +6,7 @@
 
 [B站](https://space.bilibili.com/455965619)
 
-[个人作品集](https://www.bilibili.com/video/BV19G41177gJ/)
+[个人作品集](https://www.bilibili.com/video/BV1ZR4y1D7v4/)
 
 ## 1. Graphics
 
@@ -38,6 +38,16 @@
     * 光线步进分形体积云：[最终效果](https://www.bilibili.com/video/BV1SV4y15712)
     * URP海洋水渲染：[最终效果](https://www.bilibili.com/video/BV1Ze4y1i7Y9)
   * 布料仿真（几何处理与self-Collision）：[代码](https://github.com/Heskey0/ClothSolver)，[最终效果](https://www.bilibili.com/video/BV1MR4y1o7tA)
+* Lab06 - 2022/10/11：
+  * Geometry Shader绒毛：[最终效果](https://www.bilibili.com/video/BV1zV4y1L7RW)
+  * HDRP室内场景渲染：[最终效果](https://www.bilibili.com/video/BV16G4y1p7x9)
+  * HDRP半室内场景渲染：[最终效果](https://www.bilibili.com/video/BV1gD4y1C7yg)
+  * HDRP MMD（场景+人物+VFX）：[最终效果](https://www.bilibili.com/video/BV1HV4y1L7GE/)
+* Lab07 - 2022/10/18：
+  * URP自定义Volume，十种后处理：[最终效果](https://www.bilibili.com/video/BV1Me4y1J7hb/)
+  * HDRP自定义Volume，赛博场景渲染：[最终效果](https://www.bilibili.com/video/BV15e41157o3/)
+
+
 
 
 
