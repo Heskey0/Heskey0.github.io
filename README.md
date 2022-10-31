@@ -1,12 +1,14 @@
 # Heskey0的博客
 
+天下事以难而废者十之一，以惰而废者十之九
+
 # Part 1. 个人作品
 
 [Github](https://github.com/Heskey0?tab=repositories)
 
 [B站](https://space.bilibili.com/455965619)
 
-[个人作品集](https://www.bilibili.com/video/BV1ZR4y1D7v4/)
+[知乎](https://www.zhihu.com/people/he-si-ji-huang/posts)
 
 ## 1. Graphics
 
@@ -16,7 +18,7 @@
 
 [卡通渲染](https://www.bilibili.com/video/BV1pT4y1v7GQ)
 
-《图形特效编程》课程作业：
+《图形特效编程》课程作业：[合集](https://www.bilibili.com/video/BV1ZR4y1D7v4/)
 
 * Lab01- 2022/9/6：
   * 程序化焦散：[思路分析 + 代码实现](https://www.cnblogs.com/Heskey0/p/16666017.html)，[最终效果](https://www.bilibili.com/video/BV12g411S7m3)
@@ -226,6 +228,8 @@ UE：
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
 
+
+[(SIG 2022) MATch+MatFormer生成贴图](https://zhuanlan.zhihu.com/p/570212179)
 
 
 
