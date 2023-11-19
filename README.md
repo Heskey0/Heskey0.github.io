@@ -1,5 +1,9 @@
 # Heskey0的博客
 
+​        我希望自己在学术、技术与艺术领域的毕生所学某一天能够为自己的作品所用，将快乐与痛苦播撒出去，这正是我们存在过的痕迹。勇敢地去爱，勇敢地面对痛苦，勇敢地做自己！
+
+
+
 # Part 1. 个人博客
 
 [Heskey0的博客园 - 主页](https://www.cnblogs.com/Heskey0/)
@@ -104,8 +108,6 @@
 
 [深度学习基础](https://zhuanlan.zhihu.com/p/547273693)
 
-
-
 [(SIG 2022) MATch+MatFormer生成贴图](https://zhuanlan.zhihu.com/p/570212179)
 
 
@@ -189,6 +191,8 @@
 * Lab07 - 2022/10/18：
   * URP自定义Volume，十种后处理：[最终效果](https://www.bilibili.com/video/BV1Me4y1J7hb/)
   * HDRP自定义Volume，赛博场景渲染：[最终效果](https://www.bilibili.com/video/BV15e41157o3/)
+  * 手写bvh解析器、前向动力学：[最终效果](https://www.bilibili.com/video/BV14g411B7U3/) 
+  * 手写动画重定向： [最终效果](https://www.bilibili.com/video/BV1fP4y117NN/) 
 
 
 
@@ -200,12 +204,10 @@
 Unity：
 
 * [双端网络斗地主 - 完整实现](https://www.bilibili.com/video/BV1664y1D74g)
-
 * [双端网络MMO - 系统架构](https://www.bilibili.com/video/BV1Qq4y157mh)
-
-* [gamejam(技能系统架构+敌人状态机)](https://www.bilibili.com/video/BV1CB4y1u7Sq)
-
+* [gamejam(复杂技能系统+敌人状态机)](https://www.bilibili.com/video/BV1CB4y1u7Sq)
 * [子弹追踪 - DOTS高性能C#](https://www.bilibili.com/video/BV1b54y157xQ)
+* [灯笼人爬山](https://www.bilibili.com/video/BV1xV411g7ys)
 
 UE：
 
@@ -213,13 +215,15 @@ UE：
 
 * [UE4 C++ 吃豆人](https://www.bilibili.com/video/BV1sQ4y197vd)
 
-## 3. 程序化
+## 3. 程序化（PCG）
 
 [能量球 - 程序化特效(Houdini+UE)](https://www.bilibili.com/video/BV1qh411a7YU)
 
 [高精度刺绣 - 程序化纹理(SD + UE)](https://www.bilibili.com/video/BV1pf4y1a7Hg?vd_source=10edfdf73ab80a5b21d82f049d07a937)
 
 [声控Niagara粒子](https://www.bilibili.com/video/BV1Pg4115786)
+
+[Houdini脚本生成河流、地形，自动化瀑布工具](https://www.bilibili.com/video/BV1bm4y1c72s/) 
 
 
 
