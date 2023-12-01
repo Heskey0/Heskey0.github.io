@@ -1,6 +1,6 @@
 # Heskey0的博客
 
-​        我希望自己在学术、技术与艺术领域的毕生所学某一天能够为自己的作品所用，将快乐与痛苦播撒出去，这正是我们存在过的痕迹。勇敢地去爱，勇敢地面对痛苦，勇敢地做自己！
+​        Bridge the gap between the meta world and real world!
 
 
 
