@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Heskey0, currently a graduate student at Xiamen University.
+Hi, I am Ang Zhao, currently a graduate student at Xiamen University, majoring in computer graphics, with a particular focus on 3D/4D reconstruction. I am working with Prof. [Junfeng Yao](https://cdmc.xmu.edu.cn/info/1010/1062.htm). Additionally, I am honored to have the opportunity to work with Professor [Xiaohu Guo](https://personal.utdallas.edu/~xguo/). I hold a Bachelor's degree from Communication University of China, majored in Game Design.
+
+
 
 A data-driven personal website
 ======
