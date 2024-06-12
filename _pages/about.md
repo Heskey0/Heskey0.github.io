@@ -11,7 +11,7 @@ Hi, I am Ang Zhao, currently a graduate student at Xiamen University, majoring i
 
 
 
-You can also download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf ) here.
+You can also download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
 
 
 
