@@ -17,13 +17,19 @@ Education
 Work experience
 ======
 * Summer 2024: **Tencent IEG** / Technical Artist (intern)
+
 * Summer 2024: **Xiamen University** / Research Assistant (part-time)
+
 * Spring 2024: **Motphys** / Engine Development Engineer (intern)
+
 * Summer 2022: **Xiamen Black Mirror Technology** / Graphics Algorithm Engineer (intern)
+
 * Spring 2022: **Tencent CSIG** / Algorithm Engineer (intern)
-Skills
-======
+
+# Skills
+
 * Program Language: C# (master), C++ (master), python (master), rust (fluent)
+
 * Software Skills: Unity Engine (master), Unreal Engine (fluent)
 
 Publications
