@@ -11,54 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Software Engineering, Xiamen University, 2024 - Present
+* B.S. in Digital Media Technology, Communication University of China, 2020 - 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2024: **Tencent IEG** / Technical Artist (intern)
+* Summer 2024: **Xiamen University** / Research Assistant (part-time)
+* Spring 2024: **Motphys** / Engine Development Engineer (intern)
+* Summer 2022: **Xiamen Black Mirror Technology** / Graphics Algorithm Engineer (intern)
+* Spring 2022: **Tencent CSIG** / Algorithm Engineer (intern)
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Program Language: C# (master), C++ (master), python (master), rust (fluent)
+* Software Skills: Unity Engine (master), Unreal Engine (fluent)
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+Nothing temporarily
