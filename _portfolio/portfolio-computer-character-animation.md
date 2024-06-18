@@ -1,12 +1,20 @@
 ---
-title: "Computer Character Animation Related Portfolios"
+title: "Computer Character Animation"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+# 2022
+
+GAMES105 - 手写bvh解析器、前向动力学 (2022-11-05)：
+
+[Demo Video](https://www.bilibili.com/video/BV14g411B7U3)
 
 
+
+GAMES105 - 手写动画重定向 (2022-11-07)：
+
+[Demo Video](https://www.bilibili.com/video/BV1fP4y117NN)
 
 
 
