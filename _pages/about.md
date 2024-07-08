@@ -11,7 +11,7 @@ Hi, I am Ang Zhao, currently a graduate student at Xiamen University, majoring i
 
 My research interests include:
 
-* **Physically-based Rendering**: more specifically, (deeop) real-time volumetric rendering and material modeling.
+* **Physically-based Rendering**: more specifically, (deep) real-time volumetric rendering and material modeling.
 * **Physically-based Simulation**: deformable body simulation and cloth simulation.
 * **Computer Character Animation**: high-quality motion generation for digital human.
 * **Computer Vision**: 3D/4D reconstruction.
