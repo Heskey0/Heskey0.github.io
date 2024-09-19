@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "(Heskey0) Ang Zhao - Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Heskey Ang Zhao"
 description              : "Graduate stutent at Xiamen University. Focusing on Computer Graphics and 3D Vision"
 url                      : https://heskey0.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
