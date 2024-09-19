@@ -20,51 +20,7 @@ My research interests include:
 
 You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
 
-1
 
-1
-
-1
-
-1
-
-1
-
-
-
-1
-
-11
-
-1
-
-
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
-
-1
 
 
 
@@ -75,10 +31,10 @@ You can download my [**Resume for internship**](https://heskey0.github.io/files/
 
 # 💻 Internships
 
-- *2024.5 - 2024.6*, Tencent IEG, Shenzhen
-- *2024.1 - 2024.4*, Motphys, Beijing
-- *2022.5 - 2022.9*, Black Mirror, Xiamen
-- *2022.1 - 2022.4*, Tencent CSIG, Beijing
+- *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, Shenzhen
+- *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), Beijing
+- *2022.5 - 2022.9*, [Xiamen Black Mirror Technology](https://www.metamaker.cn/#/aboutUs)(2022), Xiamen
+- *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/)(2022) <img src='../images/logo/tencent.png' style='width: 6em;'>, Beijing
 
 
 
