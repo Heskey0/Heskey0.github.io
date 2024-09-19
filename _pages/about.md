@@ -20,14 +20,60 @@ My research interests include:
 
 You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
 
+1
+
+1
+
+1
+
+1
+
+1
 
 
-# :book: Education
+
+1
+
+11
+
+1
+
+
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+
+
+# 📖 Education
 
 - *2024.7 - Present*, Master, Xiamen University, Fujian province.
 - *2020.9 - 2024.7*, Undergraduate, Communication University of China, Beijing.
 
-# :computer: Internships
+# 💻 Internships
 
 - *2024.5 - 2024.6*, Tencent IEG, Shenzhen
 - *2024.1 - 2024.4*, Motphys, Beijing
