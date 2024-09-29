@@ -1,6 +1,6 @@
 ---
 title: "Computer Character Animation"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300_character_animation.png'>"
 collection: portfolio
 ---
 
