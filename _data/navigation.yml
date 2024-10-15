@@ -1,22 +1,26 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
+#
+#  - title: "Talks"
+#    url: /talks/    
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /#-Portfolio/
     
-  - title: "CV"
-    url: /cv/
+  - title: "Blog Posts"
+    url: /#-Blogs/
+    
+  - title: "Teaching"
+    url: /#-Teaching/   
 
+  - title: "Education"
+    url: /#-Education/
+    
   - title: "Internships"
     url: /#-internships
+
+  - title: "Contact"
+    url: /#-Contact/
+    
