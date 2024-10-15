@@ -44,17 +44,17 @@ You can download my [**Resume for internship**](https://heskey0.github.io/files/
 
 # 📖 Education
 
-- *2024.7 - Present*, Master, Xiamen University, Fujian province.
-- *2020.9 - 2024.7*, Undergraduate, Communication University of China, Beijing.
+- *2024.7 - Present*, Master, Xiamen University, Fujian province
+- *2020.9 - 2024.7*, Undergraduate, Communication University of China, Beijing
 
 # 🏢 Internships
 
 (Research) Engineering:
 
-- *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Game Engine**, Shenzhen.
-- *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), **Physics Engine**, Beijing.
-- *2022.5 - 2022.9*, [Metamaker](https://www.metamaker.cn/#/aboutUs), **Digital Human**, Xiamen.
-- *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing.
+- *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Game Engine**, Shenzhen
+- *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), **Physics Engine**, Beijing
+- *2022.5 - 2022.9*, [Metamaker](https://www.metamaker.cn/#/aboutUs), **Digital Human**, Xiamen
+- *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing
 
 Research Experience:
 
