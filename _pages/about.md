@@ -13,10 +13,10 @@ I am (Heskey) Ang Zhao, born in 2002, and currently a graduate student of Xiamen
 
 My research interests include:
 
-* **<font color=MediumBlue>Physically-based Rendering</font>**: more specifically, (deep) real-time volumetric rendering and material modeling.
-* **<font color=MediumBlue>Physically-based Simulation</font>**: deformable body simulation and cloth simulation.
-* **<font color=MediumBlue>Computer Character Animation</font>**: high-quality motion generation/control for digital humans.
-* **<font color=MediumBlue>Computer Vision</font>**: 3D/4D reconstruction/generation.
+* **Physically-based Rendering**: more specifically, (deep) real-time volumetric rendering and material modeling.
+* **Physically-based Simulation**: deformable body simulation and cloth simulation.
+* **Computer Character Animation**: high-quality motion generation/control for digital humans.
+* **Computer Vision**: 3D/4D reconstruction/generation.
 
 You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
 
