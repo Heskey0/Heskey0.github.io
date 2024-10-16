@@ -73,10 +73,10 @@
   }
 
   a {
-    // text-decoration: underline;
-    text-decoration-line: underline;
-    text-decoration-style: dashed;
-    text-decoration-color: $info-color;
+    text-decoration: underline;
+    // text-decoration-line: underline;
+    // text-decoration-style: dashed;
+    // text-decoration-color: $info-color;
 
     &:hover {
       text-decoration: underline;
