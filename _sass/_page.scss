@@ -73,7 +73,9 @@
   }
 
   a {
-    text-decoration: none;
+    // text-decoration: underline;
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
 
     &:hover {
       text-decoration: underline;
