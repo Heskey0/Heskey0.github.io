@@ -8,10 +8,13 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 15px;
+  font-size: 16px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    font-size: 16px;
+  }
+  @include breakpoint($large) {
+    font-size: 16px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -80,7 +83,7 @@ a:focus {
 
 a:hover,
 a:active {
-  outline: 0;
+  outline: 3px groove rgb(98, 65, 142);
 }
 
 /* Prevent sub and sup affecting line-height in all browsers */

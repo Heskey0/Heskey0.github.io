@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 14;
+$doc-font-size              : 16;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,7 +14,8 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : "Roboto Slab", "Roboto", "Times New Roman", lora, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -62,17 +63,17 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : #fff; 
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #000;
 $border-color               : $lighter-gray;
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #978aa9; //52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -105,8 +106,8 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : #ffffff;
+$masthead-link-color-hover  : mix(#000, $primary-color, 75%);
 
 
 /*

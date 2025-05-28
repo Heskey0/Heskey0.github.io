@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: $background-color;
+  background: #9890A3; // $background-color
 
   a {
     display: block;
@@ -373,7 +373,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: $gray; // $gray
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
