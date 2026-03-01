@@ -9,13 +9,13 @@ redirect_from:
 
 # Hi, 👋
 
-I am (Heskey) Ang Zhao, born in 2002, and currently a graduate student of Xiamen University, majoring in computer graphics and 3D vision, with a particular focus on 3D/4D reconstruction/generation. I am currently honored to have the opportunity to work with Professor [Xiaohu Guo](https://personal.utdallas.edu/~xguo/) from [The University of Texas at Dallas](https://www.utdallas.edu/) and [Xiao DONG](https://staff.uic.edu.cn/xiaodong/en) from BNU-HKBU United International College. I also collaborate with [Zhiyang Dou](https://frank-zy-dou.github.io/) from [MIT CSAIL](https://www.csail.mit.edu/) closely. I hold a Bachelor's degree in Game Design from Communication University of China. I've previously spent wonderful times interning at [Tencent IEG](https://game.qq.com/web20220628txgame/index.html)(2024)<img src='../images/logo/tencent.png' style='width: 6em;'> and [Metamaker](https://www.metamaker.cn/#/aboutUs)(2022) as a research engineer, [Motphys](https://motphys.com/#/index)(2024) working on physics engine development, [Tencent CSIG](https://www.tencent.com/en-us/)(2022) <img src='../images/logo/tencent.png' style='width: 6em;'> as a software engineer intern.
+I am (Heskey) Ang Zhao, born in 2002, and currently a graduate student of Xiamen University, majoring in computer graphics and 3D vision, with a particular focus on Geometric Modeling/Processing. I am currently honored to have the opportunity to work with Professor [Xiaohu Guo](https://personal.utdallas.edu/~xguo/) from [The University of Texas at Dallas](https://www.utdallas.edu/). I hold a Bachelor's degree in Game Design from Communication University of China. I've previously spent wonderful times interning at [Tencent IEG](https://game.qq.com/web20220628txgame/index.html)(2024)<img src='../images/logo/tencent.png' style='width: 6em;'> and [Metamaker](https://www.metamaker.cn/#/aboutUs)(2022) as a graphics engineer, [Motphys](https://motphys.com/#/index)(2024) working on physics engine development, [Tencent CSIG](https://www.tencent.com/en-us/)(2022) <img src='../images/logo/tencent.png' style='width: 6em;'> as a software engineer intern.
 
 My research interests include:
 
 * **Physically-based Rendering**: more specifically, (deep) real-time volumetric rendering and material modeling.
 * **Physically-based Simulation**: deformable body simulation and cloth simulation.
-* **Computer Character Animation**: high-quality motion generation/control for digital humans.
+* **Geometric Modeling**: both organic shapes and CAD models.
 * **Computer Vision**: 3D/4D reconstruction/generation.
 
 You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
