@@ -9,18 +9,15 @@ redirect_from:
 
 # Hi, 👋
 
-I am (Heskey) Ang Zhao, born in 2002, and currently a graduate student of Xiamen University, majoring in computer graphics and 3D vision, with a particular focus on Geometric Modeling/Processing. I am currently honored to have the opportunity to work with Professor [Xiaohu Guo](https://personal.utdallas.edu/~xguo/) from [The University of Texas at Dallas](https://www.utdallas.edu/). I hold a Bachelor's degree in Game Design from Communication University of China. I've previously spent wonderful times interning at [Tencent IEG](https://game.qq.com/web20220628txgame/index.html)(2024)<img src='../images/logo/tencent.png' style='width: 6em;'> and [Metamaker](https://www.metamaker.cn/#/aboutUs)(2022) as a graphics engineer, [Motphys](https://motphys.com/#/index)(2024) working on physics engine development, [Tencent CSIG](https://www.tencent.com/en-us/)(2022) <img src='../images/logo/tencent.png' style='width: 6em;'> as a software engineer intern.
+I am (Heskey) Ang Zhao, born in 2002, and currently a graduate student of Xiamen University, majoring in computer graphics and 3D vision, with a particular focus on Geometric Modeling/Processing. I am currently a research intern at [Tencent LightSpeed Studio](https://game.qq.com/web20220628txgame/index.html)<img src='../images/logo/tencent.png' style='width: 6em;'>, advised by [Kai Yan](https://yank.ai/). I am honored to have the opportunity to work with Professor [Xiaohu Guo](https://personal.utdallas.edu/~xguo/) from [The University of Texas at Dallas](https://www.utdallas.edu/). I hold a Bachelor's degree in Game Design from Communication University of China. I've previously spent wonderful times interning at [Tencent IEG](https://game.qq.com/web20220628txgame/index.html)(2024)<img src='../images/logo/tencent.png' style='width: 6em;'> and [Metamaker](https://www.metamaker.cn/#/aboutUs)(2022) as a graphics engineer, [Motphys](https://motphys.com/#/index)(2024) working on physics engine development, [Tencent CSIG](https://www.tencent.com/en-us/)(2022) <img src='../images/logo/tencent.png' style='width: 6em;'> as a software engineer intern.
 
 My research interests include:
 
-* **Physically-based Rendering**: more specifically, (deep) real-time volumetric rendering and material modeling.
-* **Physically-based Simulation**: deformable body simulation and cloth simulation.
+* **Physically-based Simulation**: deformable body simulation and fluid simulation.
 * **Geometric Modeling**: both organic shapes and CAD models.
-* **Computer Vision**: 3D/4D reconstruction/generation.
+* **3D Computer Vision**: 3D/4D reconstruction/generation.
 
-You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here.
-
-
+<!-- You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here. -->
 
 # 💻 Portfolio
 
@@ -37,10 +34,11 @@ You can download my [**Resume for internship**](https://heskey0.github.io/files/
 * [3D Vision](https://heskey0.github.io//posts/2015/08/blog-post-4/)
 * [Business Administration](https://heskey0.github.io//posts/2016/08/blog-post-5/)
 
-# 🧑🏻‍🏫 Teaching
+<!-- # 🧑🏻‍🏫 Teaching
 
 * [Foundations of Fluid Simulation (in Chinese)](https://heskey0.github.io//teaching/2022-spring-fluid-simulation)
 * [Foundations of Volumetric Rendering (in Chinese)](https://heskey0.github.io//teaching/2022-spring-volumetric-rendering)
+-->
 
 # 📖 Education
 
@@ -49,16 +47,18 @@ You can download my [**Resume for internship**](https://heskey0.github.io/files/
 
 # 🏢 Internships
 
-(Research) Engineering:
+Research Experience:
+
+* *2026.6 - now*, [Tencent LightSpeed Studio](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Computer Graphics**, Shenzhen
+* *2024.5 - 2024.9*, [Xiamen University](https://www.xmu.edu.cn/), Research Assistant
+
+Engineering:
 
 - *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Game Engine**, Shenzhen
 - *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), **Physics Engine**, Beijing
 - *2022.5 - 2022.9*, [Metamaker](https://www.metamaker.cn/#/aboutUs), **Digital Human**, Xiamen
 - *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing
 
-Research Experience:
-
-* *2024.5 - 2024.9*, [Xiamen University](https://www.xmu.edu.cn/), Research Assistant
 
 # 🏓 Miscs.
 
