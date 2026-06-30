@@ -19,6 +19,25 @@ My research interests include:
 
 <!-- You can download my [**Resume for internship**](https://heskey0.github.io/files/Resume_AngZhao.pdf) here. -->
 
+# 📖 Education
+
+- *2024.7 - Present*, Master, Xiamen University, Fujian province
+- *2020.9 - 2024.7*, Undergraduate, Communication University of China, Beijing
+
+# 🏢 Internships
+
+Research Experience:
+
+* *2026.6 - now*, [Tencent LightSpeed Studio](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, Research Intern
+* *2024.5 - 2024.9*, [Xiamen University](https://www.xmu.edu.cn/), Research Assistant
+
+Engineering:
+
+- *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Game Engine**, Shenzhen
+- *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), **Physics Engine**, Beijing
+- *2022.5 - 2022.9*, [Metamaker](https://www.metamaker.cn/#/aboutUs), **Digital Human**, Xiamen
+- *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing
+
 # 💻 Portfolio
 
 * [Rendering](https://heskey0.github.io//portfolio/portfolio-rendering/)
@@ -40,24 +59,7 @@ My research interests include:
 * [Foundations of Volumetric Rendering (in Chinese)](https://heskey0.github.io//teaching/2022-spring-volumetric-rendering)
 -->
 
-# 📖 Education
 
-- *2024.7 - Present*, Master, Xiamen University, Fujian province
-- *2020.9 - 2024.7*, Undergraduate, Communication University of China, Beijing
-
-# 🏢 Internships
-
-Research Experience:
-
-* *2026.6 - now*, [Tencent LightSpeed Studio](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Computer Graphics**, Shenzhen
-* *2024.5 - 2024.9*, [Xiamen University](https://www.xmu.edu.cn/), Research Assistant
-
-Engineering:
-
-- *2024.5 - 2024.6*, [Tencent IEG](https://game.qq.com/web20220628txgame/index.html) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Game Engine**, Shenzhen
-- *2024.1 - 2024.4*, [Motphys](https://motphys.com/#/index), **Physics Engine**, Beijing
-- *2022.5 - 2022.9*, [Metamaker](https://www.metamaker.cn/#/aboutUs), **Digital Human**, Xiamen
-- *2022.1 - 2022.4*, [Tencent CSIG](https://www.tencent.com/en-us/) <img src='../images/logo/tencent.png' style='width: 6em;'>, **Digital Human**, Beijing
 
 
 # 🏓 Miscs.
